@@ -1,0 +1,18 @@
+h1, h2{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align: center;
+}
+
+p{
+    color: rgb(47, 0, 255);
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    line-height: 2;
+
+
+}
+
+a{
+    color: red;
+}
+a:hover {color: rgb(0, 255, 13);}
+
