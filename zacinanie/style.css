@@ -1,0 +1,28 @@
+table{
+    background-color: greenyellow;
+}
+
+.border{
+    background-color: grey;
+    color: black;
+}
+.number{
+    text-align: right;
+}
+.border2{
+    text-align: center;
+    background-color: grey;
+}
+.number2{
+    text-align: center;
+}
+table, th, td{
+    border: 2px solid;
+}
+tr:nth-last-child(even){
+    background-color: yellow;
+}
+.number3{
+    background-color: red;
+    text-align: right;
+}
